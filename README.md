@@ -24,14 +24,6 @@
 
 ------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 24/12/2021
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maria-aboulaala&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
