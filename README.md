@@ -24,19 +24,6 @@
 
 ------
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31zr6jlqhqoxzetiilxm5cxdsv6q?si=1ff40aef10084427">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="hhttps://open.spotify.com/user/31zr6jlqhqoxzetiilxm5cxdsv6q?si=1ff40aef10084427">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
 
 
 
