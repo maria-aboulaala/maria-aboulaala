@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 hello, I'm Maria Aboulaala</h1>
-<h3 align="center">I'm Maria Aboulaala, a 22-year old, a Financial and Data science passionate student</h3>
+<h3 align="center">I'm Maria Aboulaala, a 22-year old Financial and Data science passionate student</h3>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
