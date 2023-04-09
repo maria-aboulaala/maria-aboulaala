@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 hello, I'm Maria Aboulaala</h1>
+<h1 align="center">Hi 👋, I'm Maria Aboulaala</h1>
 <h3 align="center">Warning: This code is not responsible for any sudden outbursts of laughter, eye-rolling, or facepalming.</h3>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
