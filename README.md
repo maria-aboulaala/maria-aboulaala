@@ -5,7 +5,6 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div> -->
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
@@ -13,6 +12,7 @@
 
 
 ## My Statistics
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <br/>
 <p align="left">
