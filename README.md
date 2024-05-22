@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maria Aboulaala</h1>
 <h3 align="center">Warning ⚠️ : My code is not responsible for any sudden outbursts of laughter, eye-rolling, or facepalming.</h3>
-<div align="center">
+<!-- <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
