@@ -70,7 +70,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,html,css,r,matlab,js,java,github,linux,mongodb,mysql,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,py,html,css,r,matlab,js,java,github,linux,mongodb,mysql,vscode,anaconda,arduino,c,cpp,fastapi,tensorflow&perline=14" />
   </a>
 </p>
 
